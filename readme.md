@@ -102,7 +102,7 @@ Improve prediction accuracy with larger datasets
 
 👩‍💻 Author
 
-Sanjana Netha
+Sanjana Boddu
 
 B.Tech Student | Machine Learning Enthusiast
 
